@@ -38,10 +38,10 @@
     margin-top: -400px;
   }
   20% {
-    rotate: 45deg;
+    -webkit-transform: rotate(45deg);
   }
   80% {
-    rotate: -45deg;
+    -webkit-transform: rotate(-45deg);
   }
   100% {
     margin-top: 500px;
