@@ -1,0 +1,1 @@
+tsParticles.load({ preset: "fireworks" });
